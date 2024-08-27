@@ -1,4 +1,4 @@
-package hello
+package goModExample
 
 import "testing"
 
